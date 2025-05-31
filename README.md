@@ -8,16 +8,6 @@ Desenvolvido em **Node.js + SQLite** no backend e **React + Vite** no frontend.
 
 ----------------------------------------
 
-🎥 Demonstração
-
-[GIF 1: Fluxo de pedidos]
-https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3Z6eWdpeG5tYXdlZmtmdmNjODI1OWFhZ2p2aG80ajVrbXRmY3Q0NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13FrpeVH09Zrb2/giphy.gif
-
-[GIF 2: Controle de estoque]
-https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGlzb3U2ZWJua25iNndhZm5nZmNsY3dmYTZ6dHlnaXRnd3hja2JydyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3ohs4BSacFKI7A717y/giphy.gif
-
-----------------------------------------
-
 ✅ Funcionalidades
 
 - Login de operadores com função
